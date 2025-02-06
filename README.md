@@ -1,7 +1,7 @@
-- [x] Task 1 Here's my personal [page](https://leviemanuele.github.io/A-spiffy-personal-background.github.io/)
+- [x] Step 1 Here's my personal [page](https://leviemanuele.github.io/A-spiffy-personal-background.github.io/)
 ___
-- [x] Task 2 Here's the [Curriculum Vitae](https://www.canva.com/design/DAGYOdacc3A/d3BPabPQ4607EE827FwWlQ/view)
+- [x] Step 2 Here's the [Curriculum Vitae](https://www.canva.com/design/DAGYOdacc3A/d3BPabPQ4607EE827FwWlQ/view)
 ___
-- [ ] Task 3  _ {insert something} 
+- [ ] Step 3  [LinkedIn](www.linkedin.com/in/עמנואל-לוי-55ba35340) 
 ___
-![Rest your bones, traveller](https://imgur.com/a/zWAKANU)
+![mindfulness break](https://quietkit.com/img/box-breathing-4x-v03.gif)
