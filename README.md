@@ -2,6 +2,6 @@
 ___
 - [x] Step 2 Here's the [Curriculum Vitae](https://www.canva.com/design/DAGYOdacc3A/d3BPabPQ4607EE827FwWlQ/view)
 ___
-- [ ] Step 3  [LinkedIn](www.linkedin.com/in/עמנואל-לוי-55ba35340) 
+- [ ] Step 3  [LinkedIn](https://www.linkedin.com/in/עמנואל-לוי-55ba35340) 
 ___
 ![mindfulness break](https://quietkit.com/img/box-breathing-4x-v03.gif)
